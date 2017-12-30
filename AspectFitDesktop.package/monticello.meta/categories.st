@@ -1,0 +1,1 @@
+SystemOrganization addCategory: #AspectFitDesktop!

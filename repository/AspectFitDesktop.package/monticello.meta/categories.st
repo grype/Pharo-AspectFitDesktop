@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #AspectFitDesktop!
+self packageOrganizer ensurePackage: #AspectFitDesktop withTags: #()!
